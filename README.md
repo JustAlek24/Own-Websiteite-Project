@@ -1,2 +1,2 @@
 # Own-Websiteite-Project
-Project of my own website
+Проект моего личного сайта
